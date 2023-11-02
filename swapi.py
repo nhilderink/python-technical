@@ -23,4 +23,5 @@ else:
   by = res.json()["birth_year"]
   print(naam)
   print(by)
-  print("Bedankt voor het gebruiken van onze tool!")
+
+print("Bedankt voor het gebruiken van onze tool!")
